@@ -1,4 +1,4 @@
 ---
-title: Welcome to my blog
+About:Git and Github are fantasting.
 ---
-Git and Github are fantasting.
+
