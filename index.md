@@ -1,4 +1,4 @@
 ---
-title:Git is awesome.
+title:
 ---
 
