@@ -1,4 +1,4 @@
 ---
-About:Git and Github are fantasting.
+title:Git is awesome.
 ---
 
